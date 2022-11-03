@@ -4,7 +4,7 @@ description: 'Navigate to: https://www.cootiesv2.xyz/'
 
 # 🪙 How to mint a CootieV2
 
-<figure><img src="../.gitbook/assets/fdghfdf (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/fdghfdf.PNG" alt=""><figcaption></figcaption></figure>
 
 Step 1: Navigate to the top right and sign in using your preferred web3 wallet.\
 Metamask works best.\

@@ -9,7 +9,7 @@
 * [💸 Cootie Finance](overview/cootie-finance.md)
 * [🗳 DAO](overview/dao.md)
 * [🛒 Cootie Mart](overview/cootie-mart.md)
-* [🔮 FTSO](overview/ftso.md)
+* [📊 FTSO](overview/ftso.md)
 * [🎮 Cootie Battle Card game](overview/cootie-battle-card-game.md)
 
 ## Product Guides
@@ -22,7 +22,7 @@
 
 ## 🪙 CootieCoin
 
-* [📊 Tokenomics](cootiecoin/tokenomics.md)
+* [Tokenomics](cootiecoin/tokenomics.md)
 
 ## Community
 
