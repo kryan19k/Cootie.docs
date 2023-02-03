@@ -13,7 +13,7 @@ Token Distribution: \
 20% will be available for private sale and public sale. \
 15% will be retained by the team for development and operations. ​ \
 \
-Deflation: Cootie Cash has a planned deflation mechanism, where 0.01% of the total supply will be burned for each token transfer, reducing the total supply over time. This mechanism is designed to increase the scarcity of the token and increase its value over time. \
+Deflation: Cootie Cash has a planned deflation mechanism, where 0.01% will be burned for each token transfer, reducing the total supply over time. This mechanism is designed to increase the scarcity of the token and increase its value over time. \
 \
 Liquidity Pools: A portion of the token supply will be allocated to liquidity pools on decentralized exchanges (DEXs) to increase the token's liquidity and trading volume. Providing liquidity to the pools will earn users a share of the network's staking rewards. \
 \
