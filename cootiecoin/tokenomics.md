@@ -2,7 +2,7 @@
 description: Here we have CootieCoin's Tokenomics
 ---
 
-# Tokenomics
+# 📊 Tokenomics
 
 {% embed url="https://youtu.be/7OjZT2W56vA" %}
 $COOT token allocation

@@ -2,7 +2,7 @@
 description: Flare Time Series oracle
 ---
 
-# 📊 FTSO
+# 🔮 FTSO
 
 {% embed url="https://cootieftso.xyz/" %}
 
